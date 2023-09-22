@@ -4,18 +4,20 @@
     "url": "https://steamidler.ahmetefeelbas7.repl.co",
     "icon": "https://icons.duckduckgo.com/ip3/steamidler.ahmetefeelbas7.repl.co.ico",
     "slug": "replit-steam",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 374,
-    "timeDay": 282,
+    "timeDay": 176,
     "timeWeek": 374,
     "timeMonth": 374,
     "timeYear": 374,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-09-22": 0
+    }
   },
   {
     "name": "Wikipedia",
@@ -29,7 +31,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 326,
-    "timeDay": 208,
+    "timeDay": 293,
     "timeWeek": 326,
     "timeMonth": 326,
     "timeYear": 326,
