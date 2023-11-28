@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/steamidler.ahmetefeelbas7.repl.co.ico",
     "slug": "replit-steam",
     "status": "up",
-    "uptime": "98.95%",
+    "uptime": "98.96%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.95%",
+    "uptimeYear": "98.96%",
     "time": 962,
     "timeDay": 186,
     "timeWeek": 361,
@@ -26,17 +26,19 @@
     "url": "https://en.wikipedia.org",
     "icon": "https://icons.duckduckgo.com/ip3/en.wikipedia.org.ico",
     "slug": "wikipedia",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 210,
-    "timeDay": 313,
-    "timeWeek": 261,
-    "timeMonth": 226,
-    "timeYear": 210,
-    "dailyMinutesDown": {}
+    "time": 250,
+    "timeDay": 1706,
+    "timeWeek": 615,
+    "timeMonth": 316,
+    "timeYear": 250,
+    "dailyMinutesDown": {
+      "2023-11-28": 0
+    }
   }
 ]
